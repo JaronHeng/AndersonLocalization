@@ -1,2 +1,2 @@
-matplotlib
-ipywidgets
+matplotlib == 3.*
+ipywidgets == 7.*
